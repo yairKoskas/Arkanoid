@@ -13,11 +13,12 @@ import java.util.List;
 /**
  * @author Yair koskas
  * ID: 325699999
+ * this class initiates and runs the arkanoid game
  */
 public class Ass6Game {
 
     /**
-     * The main method, which operates the gameOperation.trying.Ass5Game class.
+     * The main method, which operates the Ass6Game class.
      *
      * @param args command line arguments.
      */
